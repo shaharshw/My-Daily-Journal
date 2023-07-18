@@ -1,3 +1,5 @@
+This project is a part of the "The Complete 2023 Web Development Bootcamp" course offered on the Udemy platform.
+
 # Daily Journal
 
 Welcome to Daily Journal! This is a simple blogging web application built with Node.js and Express. It allows you to compose blog posts and view them on the home page. You can also view individual blog posts by clicking on the "Read More" link.
